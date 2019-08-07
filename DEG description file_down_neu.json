@@ -9,7 +9,7 @@
 		{ "type": "integer", "index": 1, "name": "Cv_treat_time_inoc_mock_" }
   ],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 56 }
+		{ "format": "binary", "start": 2, "end": 57 }
 	]
 }
 
