@@ -7,7 +7,7 @@
 		{ "type": "id", "index": 0, "name": "Row Number" }
 	},
 	"sets": {
-		{ "format": "binary", "start": 2, "end": 56 }
+		{ "format": "binary", "start": 2, "end": 16 }
 	},
     "author": "Phyto",
     "description": "DEGs",
