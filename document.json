@@ -1,0 +1,15 @@
+{
+	"file": "https://raw.githubusercontent.com/FelixHoheneder/DEG_public/master/tableDr_down.txt",
+	"name": "DEG description file tableDr_down",
+	"header": 0,
+	"separator": ";",
+	"meta": {
+		{ "type": "id", "index": 0, "name": "Gene" }
+	},
+	"sets": {
+		{ "format": "binary", "start": 2, "end": 9 }
+	},
+    "author": "Phyto",
+    "description": "DEGs down drought x infection ",
+    "source": "XYZ"
+}
