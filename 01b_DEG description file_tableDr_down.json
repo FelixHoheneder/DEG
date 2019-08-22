@@ -3,13 +3,12 @@
 	"name": "DEG description file tableDr_down",
 	"header": 0,
 	"separator": ";",
-	"meta": {
-	"type": "id", "index": 0, "name": "Gene"
-	},
-	"sets": {
-	"format": "binary", "start": 2, "end": 8
-	},
-    "author": "Phyto",
-    "description": "DEGs down drought x infection ",
-    "source": "XYZ"
+	"skip": 0,
+"meta": [
+		{ "type": "id", "index": 0, "name": "Gene name" },
+		{ "type": "integer", "index": 1, "name": "Cv_treat_time_inoc_mock_" }
+  ],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 57 }
+	]
 }
