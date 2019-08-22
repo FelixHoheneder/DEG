@@ -9,6 +9,6 @@
 		{ "type": "integer", "index": 1, "name": "DEGs down drought x fusarium infection" }
   ],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 10 }
+		{ "format": "binary", "start": 0, "end": 10 }
 	]
 }
